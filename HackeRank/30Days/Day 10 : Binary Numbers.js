@@ -46,10 +46,10 @@ function main() {
 function main() {
     const n = parseInt(readLine(), 10);
     const array = n.toString(2).split('');
-    var max = 0;
-    var cur = 0;
+    let max = 0;
+    let cur = 0;
 
-    for (var i = 0, length = array.length; i < length; i++) {
+    for (let i = 0, itotal = array.length; i < itotal; i++) {
         if (array[i] == 1) {
             cur++;
         } else if (array[i] == 0) {
@@ -63,5 +63,6 @@ function main() {
     if (cur > max) {
         max = cur;
     }
+    
     console.log(max);
 }
