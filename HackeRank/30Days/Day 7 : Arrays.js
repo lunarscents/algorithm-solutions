@@ -7,6 +7,7 @@ function main() {
     console.log(arr.reverse().join(' '));
 }
 
+
 /** The Creation Code without .reverse() **/
 const reverseArray = (array) => {
     let temp = null;
