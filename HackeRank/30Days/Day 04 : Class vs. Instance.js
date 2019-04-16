@@ -16,4 +16,3 @@ function Person(initialAge){
        return this.age++;
   };
 }
-
