@@ -37,23 +37,26 @@ Ask questions in the Discussions forum and submit any bug reports to support@hac
 
 Initially, the button looks like this:
 <br/>
-![](https://s3.amazonaws.com/hr-challenge-images/17983/1456614015-11045006f4-btn_initial.png)
+![0](https://s3.amazonaws.com/hr-challenge-images/17983/1456614015-11045006f4-btn_initial.png)
 
 
 After the first 4 clicks, it looks like this:
 <br/>
-![](https://s3.amazonaws.com/hr-challenge-images/17983/1456614041-e93e72ebf9-btn_4_clicks.png)
+![4](https://s3.amazonaws.com/hr-challenge-images/17983/1456614041-e93e72ebf9-btn_4_clicks.png)
 
 After 5 more clicks, it looks like this:
 <br/>
-![](https://s3.amazonaws.com/hr-challenge-images/17983/1456614069-ee3675b288-btn_5_clicks.png)
+![5](https://s3.amazonaws.com/hr-challenge-images/17983/1456614069-ee3675b288-btn_5_clicks.png)
 
 
 <br/>
 <br/>
+
+---
 
 ## Solution
----
+
+### js
 
 ```javascript
 
@@ -70,6 +73,8 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 ---
+
+### html
 
 ```html
 
@@ -90,6 +95,8 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 ---
+
+### css
 
 ```css
 
