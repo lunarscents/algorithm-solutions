@@ -6,7 +6,7 @@
 ### [10Days of JavaScript](/HackerRank/10DaysOfJavascript)
 <br/>
 
-### [30Days of JavaScript](/Hackerrank/30Days)
+### [30Days of JavaScript](/HackerRank/30Days)
 <br/>
 
 ## [Programmers](/Programmers)
