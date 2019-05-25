@@ -1,3 +1,4 @@
+# Day 8: Create a Button
 ## Objective
 
 In this challenge, we practice creating buttons in JavaScript. Check out the attached tutorial for learning materials.
