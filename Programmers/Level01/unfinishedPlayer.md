@@ -12,8 +12,8 @@
 - completion의 길이는 participant의 길이보다 1 작습니다.
 - 참가자의 이름은 1개 이상 20개 이하의 알파벳 소문자로 이루어져 있습니다.
 - 참가자 중에는 동명이인이 있을 수 있습니다.
-<br/>
 
+<br/>
 
 ## 입출력 예
 | participant | completion | return |
@@ -21,8 +21,8 @@
 | [leo, kiki, eden] | [eden, kiki] | `leo` |
 | [marina, josipa, nikola, vinko, filipa] | [josipa, filipa, marina, nikola] | `vinko` |
 | 	[stanko, ana, mislav] | [mislav, stanko, mislav, ana] | `mislav` |
-<br/>
 
+<br/>
 	
 ## 입출력 예 설명
 - 예제 #1
@@ -37,7 +37,6 @@
 <br/>
 
 ---
-<br/>
 
 ### Solution
     
@@ -53,7 +52,6 @@ function solution(participant, completion) {
        return target;
    }, [])[0];
 }
-
 
 ```
     
