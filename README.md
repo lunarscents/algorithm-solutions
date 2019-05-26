@@ -40,4 +40,5 @@
 3. [K번째수](/Programmers/Level01/KthNumber.md)
 4. [2016년](/Programmers/Level01/2016.md)
 5. [가운데 글자 가져오기](/Programmers/Level01/extractMiddleLetters.md)
+6. [같은 숫자는 싫어](/Programmers/Level01/dislikeSameNumber.md)
 
