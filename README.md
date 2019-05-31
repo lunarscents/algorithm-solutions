@@ -46,4 +46,5 @@
 9. [문자열 내 마음대로 정렬하기](/Programmers/Level01/sortStrings.md)
 10. [문자열 내 p와 y의 개수](/Programmers/Level01/countInStrings.md)
 11. [문자열 내림차순으로 배치하기](/Programmers/Level01/descendingOrderStrings.md)
+12. [문자열 다루기 기본](/Programmers/Level01/handlingStringBasic.md)
 
