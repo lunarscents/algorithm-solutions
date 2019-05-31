@@ -29,7 +29,9 @@
 22. [Day 8: Create a Button](/HackerRank/10DaysOfJavascript/createButton.md)
 <br/>
 
-### [30Days of JavaScript](/HackerRank/30Days)
+### [30Days of JavaScript](/HackerRank/30DaysOfCode)
+1. [Day 0: Hello World](/HackerRank/30DaysOfCode/helloWorld.md)
+
 <br/>
 
 ## Programmers
