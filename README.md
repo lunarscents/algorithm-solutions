@@ -49,4 +49,5 @@
 10. [문자열 내 p와 y의 개수](/Programmers/Level01/countInStrings.md)
 11. [문자열 내림차순으로 배치하기](/Programmers/Level01/descendingOrderStrings.md)
 12. [문자열 다루기 기본](/Programmers/Level01/handlingStringBasic.md)
+13. [서울에서 김서방 찾기](/Programmers/Level01/findingKim.md)
 
