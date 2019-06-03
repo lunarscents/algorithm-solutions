@@ -32,6 +32,7 @@
 ### [30Days of JavaScript](/HackerRank/30DaysOfCode)
 1. [Day 0: Hello World](/HackerRank/30DaysOfCode/helloWorld.md)
 2. [Day 1: Data Types](/HackerRank/30DaysOfCode/dataTypes.md)
+3. [Day 2 : Operators](/HackerRank/30DaysOfCode/operators.md)
 
 <br/>
 
