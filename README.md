@@ -54,4 +54,5 @@
 12. [문자열 다루기 기본](/Programmers/Level01/handlingStringBasic.md)
 13. [서울에서 김서방 찾기](/Programmers/Level01/findingKim.md)
 14. [소수 찾기](/Programmers/Level01/findingPrimeNumber.md)
+15. [수박수박수박수박수박수?](/Programmers/Level01/repeatWatermelon.md)
 
