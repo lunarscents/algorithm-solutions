@@ -37,6 +37,7 @@
 5. [Day 4: Class vs. Instance](/HackerRank/30DaysOfCode/classvsInstance.md)
 6. [Day 5: Loops](/HackerRank/30DaysOfCode/loops.md)
 7. [Day 6: Let's Review](/HackerRank/30DaysOfCode/review.md)
+8. [Day 7: Arrays](/HackerRank/30DaysOfCode/arrays.md)
 
 <br/>
 
