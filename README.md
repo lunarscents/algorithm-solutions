@@ -34,6 +34,7 @@
 2. [Day 1: Data Types](/HackerRank/30DaysOfCode/dataTypes.md)
 3. [Day 2: Operators](/HackerRank/30DaysOfCode/operators.md)
 3. [Day 3: Intro to Conditional Statements](/HackerRank/30DaysOfCode/conditionalStatements.md)
+3. [Day 4: Class vs. Instance](/HackerRank/30DaysOfCode/classvsInstance.md)
 
 <br/>
 
