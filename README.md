@@ -36,6 +36,7 @@
 4. [Day 3: Intro to Conditional Statements](/HackerRank/30DaysOfCode/conditionalStatements.md)
 5. [Day 4: Class vs. Instance](/HackerRank/30DaysOfCode/classvsInstance.md)
 6. [Day 5: Loops](/HackerRank/30DaysOfCode/loops.md)
+7. [Day 6: Let's Review](/HackerRank/30DaysOfCode/review.md)
 
 <br/>
 
