@@ -38,6 +38,7 @@
 6. [Day 5: Loops](/HackerRank/30DaysOfCode/loops.md)
 7. [Day 6: Let's Review](/HackerRank/30DaysOfCode/review.md)
 8. [Day 7: Arrays](/HackerRank/30DaysOfCode/arrays.md)
+9. [Day 8: Dictionaries and Maps](/HackerRank/30DaysOfCode/maps.md)
 
 <br/>
 
