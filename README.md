@@ -26,15 +26,16 @@
 20. [Day 7: Regular Expressions I](/HackerRank/10DaysOfJavascript/regx1.md)
 21. [Day 7: Regular Expressions II](/HackerRank/10DaysOfJavascript/regx2.md)
 22. [Day 7: Regular Expressions III](/HackerRank/10DaysOfJavascript/regx3.md)
-22. [Day 8: Create a Button](/HackerRank/10DaysOfJavascript/createButton.md)
+23. [Day 8: Create a Button](/HackerRank/10DaysOfJavascript/createButton.md)
 <br/>
 
 ### [30Days of JavaScript](/HackerRank/30DaysOfCode)
 1. [Day 0: Hello World](/HackerRank/30DaysOfCode/helloWorld.md)
 2. [Day 1: Data Types](/HackerRank/30DaysOfCode/dataTypes.md)
 3. [Day 2: Operators](/HackerRank/30DaysOfCode/operators.md)
-3. [Day 3: Intro to Conditional Statements](/HackerRank/30DaysOfCode/conditionalStatements.md)
-3. [Day 4: Class vs. Instance](/HackerRank/30DaysOfCode/classvsInstance.md)
+4. [Day 3: Intro to Conditional Statements](/HackerRank/30DaysOfCode/conditionalStatements.md)
+5. [Day 4: Class vs. Instance](/HackerRank/30DaysOfCode/classvsInstance.md)
+6. [Day 5: Loops](/HackerRank/30DaysOfCode/loops.md)
 
 <br/>
 
