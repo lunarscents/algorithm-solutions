@@ -39,6 +39,11 @@
 7. [Day 6: Let's Review](/HackerRank/30DaysOfCode/review.md)
 8. [Day 7: Arrays](/HackerRank/30DaysOfCode/arrays.md)
 9. [Day 8: Dictionaries and Maps](/HackerRank/30DaysOfCode/maps.md)
+10. [Day 9: Recursion 3](/HackerRank/30DaysOfCode/recursion.md)
+11. [Day 10: Binary Numbers](/HackerRank/30DaysOfCode/binaryNumbers.md)
+12. [Day 11: 2D Arrays](/HackerRank/30DaysOfCode/2DArrays.md)
+13. [Day 12: Inheritance](/HackerRank/30DaysOfCode/inheritance.md)
+14. [Day 13: Abstract Classes](/HackerRank/30DaysOfCode/abstractClasses.md)
 
 <br/>
 
