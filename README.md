@@ -48,6 +48,7 @@
 16. [Day 15: Linked List](/HackerRank/30DaysOfCode/linkedList.md)
 17. [Day 16: Exceptions - String to Integer](/HackerRank/30DaysOfCode/exceptions.md)
 18. [Day 17: More Exceptions](/HackerRank/30DaysOfCode/moreExceptions.md)
+19. [Day 18: Queues and Stacks](/HackerRank/30DaysOfCode/queuesAndStack.md)
 
 <br/>
 
