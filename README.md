@@ -44,6 +44,7 @@
 12. [Day 11: 2D Arrays](/HackerRank/30DaysOfCode/2DArrays.md)
 13. [Day 12: Inheritance](/HackerRank/30DaysOfCode/inheritance.md)
 14. [Day 13: Abstract Classes](/HackerRank/30DaysOfCode/abstractClasses.md)
+15. [Day 14: Scope](/HackerRank/30DaysOfCode/scope.md)
 
 <br/>
 

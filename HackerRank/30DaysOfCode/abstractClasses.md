@@ -41,7 +41,6 @@ Price: $price
 **Note:** The **$** is prepended to variable names to indicate they are placeholders for variables.
 
 
-
 ## Sample Input
 
 The following input from stdin is handled by the locked stub code in your editor:
