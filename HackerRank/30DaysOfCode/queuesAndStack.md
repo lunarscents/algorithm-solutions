@@ -1,5 +1,4 @@
 # Day 18: Queues and Stacks
-## Objective
 
 Welcome to Day 18! Today we're learning about Stacks and Queues. Check out the Tutorial tab for learning materials and an instructional video!
 
