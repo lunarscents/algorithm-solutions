@@ -58,6 +58,7 @@ There are **4** nodes in this path that are connected by **3** edges, meaning ou
 ---
 
 ## Solution
+
 ```javascript
 if (root === null) return -1;
 
