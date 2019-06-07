@@ -52,6 +52,7 @@
 20. [Day 19: Interfaces](/HackerRank/30DaysOfCode/interfaces.md)
 21. [Day 20: Sorting](/HackerRank/30DaysOfCode/sorting.md)
 22. [Day 21: Generics](/HackerRank/30DaysOfCode/generics.md)
+23. [Day 22: Binary Search Trees](/HackerRank/30DaysOfCode/binarySearchTrees.md)
 
 <br/>
 
