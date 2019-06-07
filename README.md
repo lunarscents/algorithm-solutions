@@ -51,6 +51,7 @@
 19. [Day 18: Queues and Stacks](/HackerRank/30DaysOfCode/queuesAndStack.md)
 20. [Day 19: Interfaces](/HackerRank/30DaysOfCode/interfaces.md)
 21. [Day 20: Sorting](/HackerRank/30DaysOfCode/sorting.md)
+22. [Day 21: Generics](/HackerRank/30DaysOfCode/generics.md)
 
 <br/>
 
