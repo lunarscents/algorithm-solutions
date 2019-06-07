@@ -23,8 +23,8 @@ After the **n** lines of phone book entries, there are an unknown number of line
 
 ## Constraints
    
-- **1 <= n <= 100000**
-- **1 <= queries <= 100000**
+- **1 <= n <= 10<sup>5</sup>**
+- **1 <= queries <= 10<sup>5</sup>**
 
 
 ## Output Format
