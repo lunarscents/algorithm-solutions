@@ -16,7 +16,7 @@ A single integer, **n**.
 
 ## Constraints
    
-- **1 <= n <= 1000000**
+- **1 <= n <= 10<sup>6</sup>**
 
 
 ## Output Format
@@ -68,7 +68,6 @@ The binary representation of **13** is **1101**, so the maximum number of consec
 ### Solution 1
 
 ```javascript
-
 function main() {
     let n = parseInt(readLine(), 10);
     let values = [];
@@ -91,13 +90,11 @@ function main() {
 
     console.log(result);
 }
-
 ```
 
 ### Solution 2
 
 ```javascript
-
 function main() {
     const n = parseInt(readLine(), 10);
     let result = 0;
@@ -114,14 +111,12 @@ function main() {
 
     console.log(result - temp > 0 ? result : temp)
 }
-
 ```
 
 
 ### Solution 3
 
 ```javascript
-
 function main() {
     const n = parseInt(readLine(), 10);
     const array = n.toString(2).split('');
@@ -145,6 +140,4 @@ function main() {
     
     console.log(max);
 }
-
-
 ````
