@@ -17,7 +17,7 @@ The second line contains **N** space-separated integers describing array **A**'s
 ## Constraints
    
 - **1 <= N <= 1000**
-- **1 <= Ai <= 10000**, where **Ai** is the **ith** integer in the array.
+- **1 <= A<sub>i</sub> <= 10000**, where **Ai** is the **i<sup>th</sup>** integer in the array.
 
 
 ## Output Format
@@ -50,7 +50,6 @@ Print the elements of array **A** in reverse order as a single line of space-sep
 ### Solution 1
 
 ```javascript
-
 function main() {
     const n = parseInt(readLine(), 10);
 
@@ -58,13 +57,11 @@ function main() {
 
     console.log(arr.reverse().join(' '));
 }
-
 ```
 
 ### Solution 2
 
 ```javascript
-
 function main() {
     const n = parseInt(readLine(), 10);
 
@@ -84,5 +81,4 @@ function main() {
     }
     console.log(reverseArray(arr).join(' '));
 }
-
 ```
