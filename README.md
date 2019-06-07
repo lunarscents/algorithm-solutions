@@ -50,6 +50,7 @@
 18. [Day 17: More Exceptions](/HackerRank/30DaysOfCode/moreExceptions.md)
 19. [Day 18: Queues and Stacks](/HackerRank/30DaysOfCode/queuesAndStack.md)
 20. [Day 19: Interfaces](/HackerRank/30DaysOfCode/interfaces.md)
+21. [Day 20: Sorting](/HackerRank/30DaysOfCode/sorting.md)
 
 <br/>
 
