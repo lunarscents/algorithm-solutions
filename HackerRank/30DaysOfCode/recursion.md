@@ -5,6 +5,8 @@ Today, we're learning and practicing an algorithmic concept called Recursion. Ch
 
 **Recursive Method for Calculating Factorial**
 
+![Recursive Method for Calculating Factorial](https://latex.codecogs.com/svg.latex?factorial(N)&space;=&space;\begin{cases}&space;1&space;&&space;\text{&space;}&space;N\leq&space;1&space;\\&space;N&space;\times&space;factorial(N&space;-&space;1)&space;&&space;\text{}&space;otherwise&space;\end{cases})
+
 ## Task
 
 Write a factorial function that takes a positive integer, **N** as a parameter and prints the result of **N!** (**N** factorial).
