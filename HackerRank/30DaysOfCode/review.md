@@ -25,7 +25,7 @@ Each line **i** of the **T** subsequent lines contain a String, **S**.
 
 ## Output Format
 
-For each String **Sj** (where **0 <= j <= T - 1**), print **Sj**'s even-indexed characters, followed by a space, followed by **Sj**'s odd-indexed characters.
+For each String **S<sub>j</sub>** (where **0 <= j <= T - 1**), print **S<sub>j</sub>**'s even-indexed characters, followed by a space, followed by **S<sub>j</sub>**'s odd-indexed characters.
 
 ## Sample Input
 
