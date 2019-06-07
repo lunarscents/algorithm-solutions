@@ -54,6 +54,7 @@
 22. [Day 21: Generics](/HackerRank/30DaysOfCode/generics.md)
 23. [Day 22: Binary Search Trees](/HackerRank/30DaysOfCode/binarySearchTrees.md)
 24. [Day 23: BST Level-Order Traversal](/HackerRank/30DaysOfCode/BSTLevelOrderTraversal.md)
+25. [Day 24: More Linked Lists](/HackerRank/30DaysOfCode/moreLinkedLists.md)
 
 <br/>
 

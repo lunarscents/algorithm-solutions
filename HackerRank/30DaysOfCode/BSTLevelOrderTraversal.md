@@ -59,7 +59,6 @@ We traverse each level of the tree from the root downward, and we process the no
 ## Solution
 
 ```javascript
-
 // Add your code here
 // To print values separated by spaces use process.stdout.write(someValue + ' ')
 const queue = [root];
