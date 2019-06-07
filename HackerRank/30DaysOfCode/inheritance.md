@@ -61,7 +61,7 @@ Heraldo Memelli 8135627
 
 ## Explanation
 
-This student had **2** scores to average: **100** and **80**. The student's average grade is **(100 + 80) / 2 = 90**. An average grade of **90** corresponds to the letter grade **O**, so our calculate() method should return the character'O'.
+This student had **2** scores to average: **100** and **80**. The student's average grade is **https://latex.codecogs.com/svg.latex?\frac{(100&space;&plus;&space;80)}{2} = 90**. An average grade of **90** corresponds to the letter grade **O**, so our calculate() method should return the character'O'.
 
 <br/>
 <br/>
