@@ -2,8 +2,8 @@
 <br/>
 
 ## HackerRank
-
 ### [10Days of JavaScript](/HackerRank/10DaysOfJavascript)
+
 1. [Day 0: Data Types](/HackerRank/10DaysOfJavascript/dataTypes.md)
 2. [Day 0: Hello, World](/HackerRank/10DaysOfJavascript/helloWorld.md)
 3. [Day 1: Arithmetic Operators](/HackerRank/10DaysOfJavascript/arithmeticOperators.md)
@@ -30,6 +30,7 @@
 <br/>
 
 ### [30Days of JavaScript](/HackerRank/30DaysOfCode)
+
 1. [Day 0: Hello World](/HackerRank/30DaysOfCode/helloWorld.md)
 2. [Day 1: Data Types](/HackerRank/30DaysOfCode/dataTypes.md)
 3. [Day 2: Operators](/HackerRank/30DaysOfCode/operators.md)
@@ -79,6 +80,6 @@
 14. [소수 찾기](/Programmers/Level01/findingPrimeNumber.md)
 15. [수박수박수박수박수박수?](/Programmers/Level01/repeatWatermelon.md)
 16. [문자열을 정수로 바꾸기](/Programmers/Level01/replaceStringsToInteger.md)
-16. [시저 암호](/Programmers/Level01/caesarCipher.md)
-17. [약수의 합](/Programmers/Level01/sumFactors.md)
+17. [시저 암호](/Programmers/Level01/caesarCipher.md)
+18. [약수의 합](/Programmers/Level01/sumFactors.md)
 
