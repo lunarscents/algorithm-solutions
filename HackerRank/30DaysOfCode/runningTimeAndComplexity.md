@@ -8,7 +8,7 @@ Today we're learning about running time! Check out the Tutorial tab for learning
 
 A prime is a natural number greater than **1** that has no positive divisors other than **1** and itself. Given a number, **n**, determine and print whether it's **Prime** or **Not Prime**.
 
-**Note:** If possible, try to come up with a **O\sqrt()n** primality algorithm, or see what sort of optimizations you come up with for an **O\sqrt()n** algorithm. Be sure to check out the Editorial after submitting your code!
+**Note:** If possible, try to come up with a **$$$O\sqrt{n}$$$** primality algorithm, or see what sort of optimizations you come up with for an **O\sqrt()n** algorithm. Be sure to check out the Editorial after submitting your code!
 
 
 ## Input Format
@@ -20,7 +20,7 @@ Each of the **T** subsequent lines contains an integer, **n**, to be tested for 
 ## Constraints
 
 - 1 <= T <= 30
-- 1 <= n <= 2 X 10^9
+- 1 <= n <= 2 X 10<sup>9</sup>
 
 
 ## Output Format
