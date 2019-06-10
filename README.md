@@ -82,4 +82,5 @@
 16. [문자열을 정수로 바꾸기](/Programmers/Level01/replaceStringsToInteger.md)
 17. [시저 암호](/Programmers/Level01/caesarCipher.md)
 18. [약수의 합](/Programmers/Level01/sumFactors.md)
+19. [이상한 문자 만들기](/Programmers/Level01/createStrangeCharacters.md)
 
