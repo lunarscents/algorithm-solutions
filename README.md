@@ -85,4 +85,5 @@
 19. [이상한 문자 만들기](/Programmers/Level01/createStrangeCharacters.md)
 20. [자릿수 더하기](/Programmers/Level01/addDigits.md)
 21. [자연수 뒤집어 배열로 만들기](/Programmers/Level01/flipNumbertoArray.md)
+22. [정수 내림차순으로 배치하기](/Programmers/Level01/integerDescendingOrder.md)
 
