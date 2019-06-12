@@ -87,4 +87,5 @@
 21. [자연수 뒤집어 배열로 만들기](/Programmers/Level01/flipNumbertoArray.md)
 22. [정수 내림차순으로 배치하기](/Programmers/Level01/integerDescendingOrder.md)
 23. [정수 제곱근 판별](/Programmers/Level01/determineSquareRoot.md)
+24. [제일 작은 수 제거하기](/Programmers/Level01/removeThesmallestNumber.md)
 
