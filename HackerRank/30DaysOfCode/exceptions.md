@@ -65,7 +65,6 @@ Sample Case **1** does not contain any integers, so an attempt to convert it to 
 ## Solution
 
 ```javascript
-
 /*
  * You can use the following pseudocode:
  *
@@ -92,5 +91,4 @@ function main() {
         console.log("Bad String");
     }
 }
-
 ```

@@ -66,7 +66,6 @@ The list is initially empty, so **head** is null; accounting for this, our code 
 ## Solution
 
 ```javascript
-
 this.insert=function(head,data){
     //complete this method
     let node = new Node(data);
@@ -85,3 +84,4 @@ this.insert=function(head,data){
 
     return head;
 };
+```

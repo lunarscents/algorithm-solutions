@@ -67,7 +67,6 @@ The maximum of these differences is **4**, so it saves the value **4** as the **
 ### Solution 1
 
 ```javascript
-
 let input = "3\n1 2 5";
 const difference = () => {
   const result = input.split('\n')[1].split(' ').reduce(
@@ -86,13 +85,11 @@ const difference = () => {
 };
 
 difference();
-
 ```
 
 ### Solution 2
 
 ```javascript
-
 let input = "3\n1 2 5";
 
 function difference(input) {
@@ -117,5 +114,4 @@ function difference(input) {
 console.log(input);
 
 difference(input);
-
 ```
