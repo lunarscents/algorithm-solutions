@@ -45,7 +45,6 @@ n and p should be non-negative
 n and p should be non-negative
 ```
 
-
 ## Explanation
 
 **T = 4**
@@ -55,14 +54,12 @@ n and p should be non-negative
 **T<sub>3</sub>**: One of the inputs (**-1**) is negative, so power throws an exception and **n and p should be non-negative** is printed.
 
 <br/>
-<br/>
 
 ---
 
 ## Solution
 
 ```javascript
-
 /*
  * You can use the following pseudocode:
  *
@@ -94,5 +91,4 @@ let Calculator = function () {
         }
     }
 }
-
 ```
