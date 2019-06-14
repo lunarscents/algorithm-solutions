@@ -44,14 +44,12 @@ The word, racecar, is a palindrome.
 ```
 
 <br/>
-<br/>
 
 ---
 
 ## Solution
 
 ```javascript
-
 function Solution(){
   //Write your code here
     this.stack = [];
@@ -63,7 +61,4 @@ function Solution(){
     this.popCharacter = () => this.stack.pop();
     this.dequeueCharacter = () => this.queue.shift();
 }
-
 ```
-
-
