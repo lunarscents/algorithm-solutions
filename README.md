@@ -90,5 +90,5 @@
 24. [제일 작은 수 제거하기](/Programmers/Level01/removeThesmallestNumber.md)
 25. [짝수와 홀수](/Programmers/Level01/evenAndOdd.md)
 26. [최대공약수와 최소공배수](/Programmers/Level01/theGreatestAndTheLeast.md)
-27. [콜라츠 추측](/Programmers/Level01/collatzConjecture).md)
+27. [콜라츠 추측](/Programmers/Level01/collatzConjecture.md)
 
