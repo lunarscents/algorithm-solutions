@@ -92,4 +92,5 @@
 26. [최대공약수와 최소공배수](/Programmers/Level01/theGreatestAndTheLeast.md)
 27. [콜라츠 추측](/Programmers/Level01/collatzConjecture.md)
 28. [평균 구하기](/Programmers/Level01/average.md)
+29. [하샤드 수](/Programmers/Level01/allHarshadNumber.md)
 
