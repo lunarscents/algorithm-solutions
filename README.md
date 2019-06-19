@@ -93,4 +93,5 @@
 27. [콜라츠 추측](/Programmers/Level01/collatzConjecture.md)
 28. [평균 구하기](/Programmers/Level01/average.md)
 29. [하샤드 수](/Programmers/Level01/allHarshadNumber.md)
+30. [핸드폰 번호 가리기](/Programmers/Level01/hidePhoneNumber.md)
 
