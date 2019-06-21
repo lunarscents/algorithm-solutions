@@ -95,4 +95,5 @@
 29. [하샤드 수](/Programmers/Level01/allHarshadNumber.md)
 30. [핸드폰 번호 가리기](/Programmers/Level01/hidePhoneNumber.md)
 31. [행렬의 덧셈](/Programmers/Level01/additionMatrix.md)
+32. [x만큼 간격이 있는 n개의 숫자](/Programmers/Level01/spaceXwithN.md)
 
