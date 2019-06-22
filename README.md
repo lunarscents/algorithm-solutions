@@ -97,4 +97,5 @@
 31. [행렬의 덧셈](/Programmers/Level01/additionMatrix.md)
 32. [x만큼 간격이 있는 n개의 숫자](/Programmers/Level01/spaceXwithN.md)
 33. [직사각형 별찍기](/Programmers/Level01/rectangleStars.md)
+34. [예산](/Programmers/Level01/budget.md)
 
