@@ -96,4 +96,5 @@
 30. [핸드폰 번호 가리기](/Programmers/Level01/hidePhoneNumber.md)
 31. [행렬의 덧셈](/Programmers/Level01/additionMatrix.md)
 32. [x만큼 간격이 있는 n개의 숫자](/Programmers/Level01/spaceXwithN.md)
+33. [직사각형 별찍기](/Programmers/Level01/rectangleStars.md)
 
