@@ -58,6 +58,15 @@
 25. [Day 24: More Linked Lists](/HackerRank/30DaysOfCode/moreLinkedLists.md)
 26. [Day 25: Running Time and Complexity](/HackerRank/30DaysOfCode/runningTimeAndComplexity.md)
 27. [Day 26: Nested Logic](/HackerRank/30DaysOfCode/nestedLogic.md)
+<br/>
+
+### [Problem Solving](/HackerRank/ProblemSolving)
+#### [Algorithms](/HackerRank/ProblemSolving/Algorithms)
+
+1. [Solve Me First](/HackerRank/ProblemSolving/Algorithms/solveMeFirst.md)
+2. [Simple Array Sum](/HackerRank/ProblemSolving/Algorithms/simpleArraySum.md)
+3. [Compare the Triplets](/HackerRank/ProblemSolving/Algorithms/comparetheTriplets.md)
+
 
 <br/>
 
@@ -98,4 +107,10 @@
 32. [x만큼 간격이 있는 n개의 숫자](/Programmers/Level01/spaceXwithN.md)
 33. [직사각형 별찍기](/Programmers/Level01/rectangleStars.md)
 34. [예산](/Programmers/Level01/budget.md)
+<br/>
 
+### [Level02](/Programmers/Level02)
+
+1. [프린터](/Programmers/Level02/printer.md)
+2. [쇠막대기](/Programmers/Level02/ironRod.md)
+3. [스킬트리](/Programmers/Level02/skillTree.md)
