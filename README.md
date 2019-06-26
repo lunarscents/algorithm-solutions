@@ -66,6 +66,7 @@
 1. [Solve Me First](/HackerRank/ProblemSolving/Algorithms/solveMeFirst.md)
 2. [Simple Array Sum](/HackerRank/ProblemSolving/Algorithms/simpleArraySum.md)
 3. [Compare the Triplets](/HackerRank/ProblemSolving/Algorithms/comparetheTriplets.md)
+4. [A Very Big Sum](/HackerRank/ProblemSolving/Algorithms/aVeryBigSum.md)
 
 
 <br/>
