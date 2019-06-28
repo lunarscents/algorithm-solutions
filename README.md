@@ -67,6 +67,7 @@
 2. [Simple Array Sum](/HackerRank/ProblemSolving/Algorithms/simpleArraySum.md)
 3. [Compare the Triplets](/HackerRank/ProblemSolving/Algorithms/comparetheTriplets.md)
 4. [A Very Big Sum](/HackerRank/ProblemSolving/Algorithms/aVeryBigSum.md)
+5. [Diagonal Difference](/HackerRank/ProblemSolving/Algorithms/diagonalDifference.md)
 
 
 <br/>
