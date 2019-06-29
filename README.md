@@ -118,4 +118,5 @@
 1. [프린터](/Programmers/Level02/printer.md)
 2. [쇠막대기](/Programmers/Level02/ironRod.md)
 3. [스킬트리](/Programmers/Level02/skillTree.md)
-4. [납](/Programmers/Level02/transmissionTower.md)
+4. [탑](/Programmers/Level02/transmissionTower.md)
+5. [124 나라의 숫자](/Programmers/Level02/Numberof124.md)
