@@ -19,7 +19,7 @@ Complete the plusMinus function in the editor below. It should print out the rat
 
 plusMinus has the following parameter(s):
 
-- arr: an array of integers .
+- arr: an array of integers
 
 ## Input Format
 
