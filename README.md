@@ -69,6 +69,7 @@
 4. [A Very Big Sum](/HackerRank/ProblemSolving/Algorithms/aVeryBigSum.md)
 5. [Diagonal Difference](/HackerRank/ProblemSolving/Algorithms/diagonalDifference.md)
 6. [Plus Minus](/HackerRank/ProblemSolving/Algorithms/plusMinus.md)
+7. [Staircase](/HackerRank/ProblemSolving/Algorithms/staircase.md)
 
 
 <br/>
