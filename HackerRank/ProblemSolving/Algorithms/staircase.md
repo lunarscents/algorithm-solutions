@@ -23,7 +23,7 @@ staircase has the following parameter(s):
 
 ## Input Format
 
-A single integer, , denoting the size of the staircase.
+A single integer, **n**, denoting the size of the staircase.
 
 ## Constraints 
 
