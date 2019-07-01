@@ -70,6 +70,7 @@
 5. [Diagonal Difference](/HackerRank/ProblemSolving/Algorithms/diagonalDifference.md)
 6. [Plus Minus](/HackerRank/ProblemSolving/Algorithms/plusMinus.md)
 7. [Staircase](/HackerRank/ProblemSolving/Algorithms/staircase.md)
+8. [Birthday Cake Candles](/HackerRank/ProblemSolving/Algorithms/birthdayCandles.md)
 
 
 <br/>
