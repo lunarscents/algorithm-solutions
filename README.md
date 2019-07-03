@@ -72,6 +72,7 @@
 7. [Staircase](/HackerRank/ProblemSolving/Algorithms/staircase.md)
 8. [Birthday Cake Candles](/HackerRank/ProblemSolving/Algorithms/birthdayCandles.md)
 9. [Time Conversion](/HackerRank/ProblemSolving/Algorithms/timeConversion.md)
+10. [Grading Students](/HackerRank/ProblemSolving/Algorithms/gradingStudents.md)
 
 
 <br/>

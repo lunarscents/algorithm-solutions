@@ -30,7 +30,7 @@ Convert and print the given time in **24**-hour format, where **0 <= hh <= 23**.
 07:05:45PM
 ```
 
-## Sample Output
+## Sample Output 0
 
 ```
 19:05:45
@@ -64,5 +64,3 @@ function timeConversion(s) {
     }, []).join(':');
 }
 ```
-
----
