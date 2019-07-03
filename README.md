@@ -122,4 +122,5 @@
 2. [쇠막대기](/Programmers/Level02/ironRod.md)
 3. [스킬트리](/Programmers/Level02/skillTree.md)
 4. [탑](/Programmers/Level02/transmissionTower.md)
-5. [124 나라의 숫자](/Programmers/Level02/Numberof124.md)
+5. [124 나라의 숫자](/Programmers/Level02/numberOf124.md)
+6. [기능개발](/Programmers/Level02/functionDevelopment.md)
