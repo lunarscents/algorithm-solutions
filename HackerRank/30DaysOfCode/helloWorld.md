@@ -30,7 +30,7 @@ Welcome to 30 Days of Code!
 ```
 
 
-##Sample Output 0
+## Sample Output 0
 
 ```
 Hello, World. 
