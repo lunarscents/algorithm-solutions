@@ -76,6 +76,7 @@
 - [Grading Students](/HackerRank/ProblemSolving/Algorithms/gradingStudents.md)
 - [Apple and Orange](/HackerRank/ProblemSolving/Algorithms/appleAndOrange.md)
 - [Kangaroo](/HackerRank/ProblemSolving/Algorithms/kangaroo.md)
+- [Between Two Sets](/HackerRank/ProblemSolving/Algorithms/betweenTwoSets.md)
 
 
 <br/>
