@@ -62,7 +62,9 @@ Need help to get started? Try the Solve Me First problem
 ## Solution
 
 ```javascript
-const sum = (values) => (values || []).reduce((target, value) => {
+// Complete the miniMaxSum function below.
+function miniMaxSum(arr) {
+    const sum = (values) => (values || []).reduce((target, value) => {
         return target + value;
     }, 0);
 
@@ -72,4 +74,5 @@ const sum = (values) => (values || []).reduce((target, value) => {
     let maxSum = sum(arr.slice(1));
 
     console.log(minSum, maxSum);
+}
 ```
