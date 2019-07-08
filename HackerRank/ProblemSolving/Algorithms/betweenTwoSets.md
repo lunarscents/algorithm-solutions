@@ -61,7 +61,6 @@ Print the number of integers that are considered to be between **a** and **b**.
 ## Solution
 
 ```javascript
-
 /*
  * Complete the 'getTotalX' function below.
  *
