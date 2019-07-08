@@ -37,20 +37,20 @@ The second line contains **n** space-separated integers describing the respectiv
 
 Print two space-seperated integers describing the respective numbers of times her best (highest) score increased and her worst (lowest) score decreased.
 
-## Sample Input 1
+## Sample Input 0
 
 ```
 9
 10 5 20 20 4 5 2 25 1
 ```
 
-## Sample Output 1
+## Sample Output 0
 
 ```
 2 4
 ```
 
-## Explanation 1
+## Explanation 0
    
 The diagram below depicts the number of times Maria broke her best and worst records throughout the season:<br/>
 
