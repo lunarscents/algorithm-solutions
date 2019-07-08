@@ -78,6 +78,7 @@
 - [Kangaroo](/HackerRank/ProblemSolving/Algorithms/kangaroo.md)
 - [Between Two Sets](/HackerRank/ProblemSolving/Algorithms/betweenTwoSets.md)
 - [Breaking the Records](/HackerRank/ProblemSolving/Algorithms/breakingRecords.md)
+- [Birthday Chocolate](/HackerRank/ProblemSolving/Algorithms/birthdayChocolate.md)
 
 
 <br/>
