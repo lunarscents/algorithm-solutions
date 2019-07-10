@@ -79,6 +79,7 @@
 - [Between Two Sets](/HackerRank/ProblemSolving/Algorithms/betweenTwoSets.md)
 - [Breaking the Records](/HackerRank/ProblemSolving/Algorithms/breakingRecords.md)
 - [Birthday Chocolate](/HackerRank/ProblemSolving/Algorithms/birthdayChocolate.md)
+- [Divisible Sum Pairs](/HackerRank/ProblemSolving/Algorithms/divisibleSumPairs.md)
 
 
 <br/>
