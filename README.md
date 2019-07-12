@@ -81,6 +81,7 @@
 - [Birthday Chocolate](/HackerRank/ProblemSolving/Algorithms/birthdayChocolate.md)
 - [Divisible Sum Pairs](/HackerRank/ProblemSolving/Algorithms/divisibleSumPairs.md)
 - [Day of the Programmer](/HackerRank/ProblemSolving/Algorithms/dayOfProgrammer.md)
+- [Bon Appétit](/HackerRank/ProblemSolving/Algorithms/splitTheBill.md)
 
 
 <br/>
