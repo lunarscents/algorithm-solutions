@@ -83,6 +83,7 @@
 - [Day of the Programmer](/HackerRank/ProblemSolving/Algorithms/dayOfProgrammer.md)
 - [Bon Appétit](/HackerRank/ProblemSolving/Algorithms/splitTheBill.md)
 - [Sock Merchant](/HackerRank/ProblemSolving/Algorithms/sockMerchant.md)
+- [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
 
 
 <br/>
