@@ -71,8 +71,6 @@ There is no way to buy one keyboard and one USB drive because **4 + 5 > 5**, so 
 
 <br/>
 
-John can match three pairs of socks.
-
 ---
 
 ## Solution
