@@ -84,6 +84,7 @@
 - [Bon Appétit](/HackerRank/ProblemSolving/Algorithms/splitTheBill.md)
 - [Sock Merchant](/HackerRank/ProblemSolving/Algorithms/sockMerchant.md)
 - [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
+- [Cats and a Mouse](/HackerRank/ProblemSolving/Algorithms/catsAndMouse.md)
 
 
 <br/>
