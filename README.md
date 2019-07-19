@@ -87,6 +87,7 @@
 - [Counting Valleys](/HackerRank/ProblemSolving/Algorithms/countingValleys.md)
 - [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
 - [Cats and a Mouse](/HackerRank/ProblemSolving/Algorithms/catsAndMouse.md)
+- [The Hurdle Race](/HackerRank/ProblemSolving/Algorithms/hurdleRace.md)
 
 
 <br/>
