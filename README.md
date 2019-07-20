@@ -88,6 +88,7 @@
 - [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
 - [Cats and a Mouse](/HackerRank/ProblemSolving/Algorithms/catsAndMouse.md)
 - [The Hurdle Race](/HackerRank/ProblemSolving/Algorithms/hurdleRace.md)
+- [Angry Professor](/HackerRank/ProblemSolving/Algorithms/angryProfessor.md)
 
 
 <br/>
