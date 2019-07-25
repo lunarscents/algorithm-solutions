@@ -93,6 +93,7 @@
 - [Beautiful Days at the Movies](/HackerRank/ProblemSolving/Algorithms/beautifulDays.md)
 - [Viral Advertising](/HackerRank/ProblemSolving/Algorithms/viralAdvertising.md)
 - [Save the Prisoner!](/HackerRank/ProblemSolving/Algorithms/savePrisoner.md)
+- [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
 
 
 <br/>
