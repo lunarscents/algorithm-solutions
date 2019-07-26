@@ -88,6 +88,7 @@
 - [Counting Valleys](/HackerRank/ProblemSolving/Algorithms/countingValleys.md)
 - [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
 - [Cats and a Mouse](/HackerRank/ProblemSolving/Algorithms/catsAndMouse.md)
+- [Picking Numbers](/HackerRank/ProblemSolving/Algorithms/pickingNumbers.md)
 - [The Hurdle Race](/HackerRank/ProblemSolving/Algorithms/hurdleRace.md)
 - [Angry Professor](/HackerRank/ProblemSolving/Algorithms/angryProfessor.md)
 - [Beautiful Days at the Movies](/HackerRank/ProblemSolving/Algorithms/beautifulDays.md)
