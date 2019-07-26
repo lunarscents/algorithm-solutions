@@ -24,7 +24,7 @@ A single line of five space-separated integers.
 
 ## Constraints 
 
-- 1 < arr[i] < 10<sup9</sup>
+- 1 < arr[i] < 10<sup>9</sup>
 
 ## Output Format
 
