@@ -91,6 +91,7 @@
 - [Picking Numbers](/HackerRank/ProblemSolving/Algorithms/pickingNumbers.md)
 - [The Hurdle Race](/HackerRank/ProblemSolving/Algorithms/hurdleRace.md)
 - [Designer PDF Viewer](/HackerRank/ProblemSolving/Algorithms/designerViewer.md)
+- [Utopian Tree](/HackerRank/ProblemSolving/Algorithms/utopianTree.md)
 - [Angry Professor](/HackerRank/ProblemSolving/Algorithms/angryProfessor.md)
 - [Beautiful Days at the Movies](/HackerRank/ProblemSolving/Algorithms/beautifulDays.md)
 - [Viral Advertising](/HackerRank/ProblemSolving/Algorithms/viralAdvertising.md)
