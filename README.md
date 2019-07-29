@@ -97,6 +97,7 @@
 - [Viral Advertising](/HackerRank/ProblemSolving/Algorithms/viralAdvertising.md)
 - [Save the Prisoner!](/HackerRank/ProblemSolving/Algorithms/savePrisoner.md)
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
+- [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 
 
 <br/>
