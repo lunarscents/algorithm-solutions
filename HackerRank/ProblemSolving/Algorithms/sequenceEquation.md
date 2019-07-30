@@ -33,7 +33,7 @@ The second line contains **n** space-separated integers **p[i]** where **a <= i 
 
 ## Output Format
 
-For each **x** from **1** to **n**, print an integer denoting any valid **y** satisfying the equation ![]('https://latex.codecogs.com/gif.latex?p(p(y))&space;\equiv&space;x') on a new line.
+For each **x** from **1** to **n**, print an integer denoting any valid **y** satisfying the equation ![](https://latex.codecogs.com/gif.latex?p(p(y))&space;\equiv&space;x) on a new line.
 
 ## Sample Input 0
 
@@ -54,9 +54,9 @@ For each **x** from **1** to **n**, print an integer denoting any valid **y** sa
 
 Given the values of **p(1) = 2**, **p(2) = 3**, and **p(3) = 1**, we calculate and print the following values for each **x** from **1** to **n**:
 
-1. ![]('https://latex.codecogs.com/gif.latex?x&space;=&space;1&space;\equiv&space;p(3)&space;=&space;p(p(2))&space;=&space;p(p(y))'), so we print the value of **y = 2** on a new line.
-2. ![]('https://latex.codecogs.com/gif.latex?x&space;=&space;2&space;\equiv&space;p(1)&space;=&space;p(p(3))&space;=&space;p(p(y))'), so we print the value of **y = 3** on a new line.
-3. ![]('https://latex.codecogs.com/gif.latex?x&space;=&space;3&space;\equiv&space;p(2)&space;=&space;p(p(1))&space;=&space;p(p(y))'), so we print the value of **y = 1** on a new line.
+1. ![](https://latex.codecogs.com/gif.latex?x&space;=&space;1&space;\equiv&space;p(3)&space;=&space;p(p(2))&space;=&space;p(p(y))), so we print the value of **y = 2** on a new line.
+2. ![](https://latex.codecogs.com/gif.latex?x&space;=&space;2&space;\equiv&space;p(1)&space;=&space;p(p(3))&space;=&space;p(p(y))), so we print the value of **y = 3** on a new line.
+3. ![](https://latex.codecogs.com/gif.latex?x&space;=&space;3&space;\equiv&space;p(2)&space;=&space;p(p(1))&space;=&space;p(p(y))), so we print the value of **y = 1** on a new line.
 
 ## Sample Input 1
 
