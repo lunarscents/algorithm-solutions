@@ -99,6 +99,7 @@
 - [Sequence Equation](/HackerRank/ProblemSolving/Algorithms/sequenceEquation.md)
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
+- [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
 - [CamelCase](/HackerRank/ProblemSolving/Algorithms/camelCase.md)
 
 
