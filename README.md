@@ -100,6 +100,7 @@
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 - [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
+- [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
 - [Intro to Tutorial Challenges](/HackerRank/ProblemSolving/Algorithms/tutorialChallenges.md)
 - [CamelCase](/HackerRank/ProblemSolving/Algorithms/camelCase.md)
