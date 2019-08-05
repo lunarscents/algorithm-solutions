@@ -89,6 +89,7 @@
 - [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
 - [Cats and a Mouse](/HackerRank/ProblemSolving/Algorithms/catsAndMouse.md)
 - [Picking Numbers](/HackerRank/ProblemSolving/Algorithms/pickingNumbers.md)
+- [Climbing the Leaderboard](/HackerRank/ProblemSolving/Algorithms/climbingleaderboard.md)
 - [The Hurdle Race](/HackerRank/ProblemSolving/Algorithms/hurdleRace.md)
 - [Designer PDF Viewer](/HackerRank/ProblemSolving/Algorithms/designerViewer.md)
 - [Utopian Tree](/HackerRank/ProblemSolving/Algorithms/utopianTree.md)
