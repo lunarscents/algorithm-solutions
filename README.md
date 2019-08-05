@@ -88,6 +88,7 @@
 - [Counting Valleys](/HackerRank/ProblemSolving/Algorithms/countingValleys.md)
 - [Electronics Shop](/HackerRank/ProblemSolving/Algorithms/electronicsShop.md)
 - [Cats and a Mouse](/HackerRank/ProblemSolving/Algorithms/catsAndMouse.md)
+- [Forming a Magic Square](/HackerRank/ProblemSolving/Algorithms/formingMagicSquare.md)
 - [Picking Numbers](/HackerRank/ProblemSolving/Algorithms/pickingNumbers.md)
 - [Climbing the Leaderboard](/HackerRank/ProblemSolving/Algorithms/climbingleaderboard.md)
 - [The Hurdle Race](/HackerRank/ProblemSolving/Algorithms/hurdleRace.md)
