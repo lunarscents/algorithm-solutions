@@ -98,6 +98,7 @@
 - [Beautiful Days at the Movies](/HackerRank/ProblemSolving/Algorithms/beautifulDays.md)
 - [Viral Advertising](/HackerRank/ProblemSolving/Algorithms/viralAdvertising.md)
 - [Save the Prisoner!](/HackerRank/ProblemSolving/Algorithms/savePrisoner.md)
+- [Circular Array Rotation](/HackerRank/ProblemSolving/Algorithms/circularArrayRotation.md)
 - [Sequence Equation](/HackerRank/ProblemSolving/Algorithms/sequenceEquation.md)
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
