@@ -103,6 +103,7 @@
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 - [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
+- [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
