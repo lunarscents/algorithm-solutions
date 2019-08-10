@@ -100,6 +100,7 @@
 - [Save the Prisoner!](/HackerRank/ProblemSolving/Algorithms/savePrisoner.md)
 - [Circular Array Rotation](/HackerRank/ProblemSolving/Algorithms/circularArrayRotation.md)
 - [Sequence Equation](/HackerRank/ProblemSolving/Algorithms/sequenceEquation.md)
+- [Jumping on the Clouds: Revisited](/HackerRank/ProblemSolving/Algorithms/jumpingCloudsRevisited.md)
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 - [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
