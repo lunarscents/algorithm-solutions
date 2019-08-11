@@ -102,6 +102,7 @@
 - [Sequence Equation](/HackerRank/ProblemSolving/Algorithms/sequenceEquation.md)
 - [Jumping on the Clouds: Revisited](/HackerRank/ProblemSolving/Algorithms/jumpingCloudsRevisited.md)
 - [Find Digits](/HackerRank/ProblemSolving/Algorithms/findDigits.md)
+- [Extra Long Factorials](/HackerRank/ProblemSolving/Algorithms/extraLongFactorials.md)
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 - [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
 - [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
