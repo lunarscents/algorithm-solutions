@@ -106,6 +106,7 @@
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 - [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
 - [Cut the sticks](/HackerRank/ProblemSolving/Algorithms/cutTheSticks.md)
+- [Repeated String](/HackerRank/ProblemSolving/Algorithms/repeatedString.md)
 - [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
