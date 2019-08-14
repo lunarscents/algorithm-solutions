@@ -108,6 +108,7 @@
 - [Cut the sticks](/HackerRank/ProblemSolving/Algorithms/cutTheSticks.md)
 - [Repeated String](/HackerRank/ProblemSolving/Algorithms/repeatedString.md)
 - [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
+- [Equalize the Array](/HackerRank/ProblemSolving/Algorithms/equalizeArray.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
