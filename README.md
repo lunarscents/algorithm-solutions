@@ -114,6 +114,7 @@
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
 - [Intro to Tutorial Challenges](/HackerRank/ProblemSolving/Algorithms/tutorialChallenges.md)
 - [CamelCase](/HackerRank/ProblemSolving/Algorithms/camelCase.md)
+- [Mars Exploration](/HackerRank/ProblemSolving/Algorithms/marsExploration.md)
 
 
 <br/>
