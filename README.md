@@ -110,6 +110,7 @@
 - [Repeated String](/HackerRank/ProblemSolving/Algorithms/repeatedString.md)
 - [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
 - [Equalize the Array](/HackerRank/ProblemSolving/Algorithms/equalizeArray.md)
+- [Taum and B'day](/HackerRank/ProblemSolving/Algorithms/taumAndBday.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
