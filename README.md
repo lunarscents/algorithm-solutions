@@ -1,7 +1,9 @@
 # Algorithm Solutions
+
 <br/>
 
 ## HackerRank
+
 ### [10Days of JavaScript](/HackerRank/10DaysOfJavascript)
 
 - [Day 0: Data Types](/HackerRank/10DaysOfJavascript/dataTypes.md)
@@ -27,7 +29,7 @@
 - [Day 7: Regular Expressions II](/HackerRank/10DaysOfJavascript/regx2.md)
 - [Day 7: Regular Expressions III](/HackerRank/10DaysOfJavascript/regx3.md)
 - [Day 8: Create a Button](/HackerRank/10DaysOfJavascript/createButton.md)
-<br/>
+  <br/>
 
 ### [30Days of JavaScript](/HackerRank/30DaysOfCode)
 
@@ -58,9 +60,10 @@
 - [Day 24: More Linked Lists](/HackerRank/30DaysOfCode/moreLinkedLists.md)
 - [Day 25: Running Time and Complexity](/HackerRank/30DaysOfCode/runningTimeAndComplexity.md)
 - [Day 26: Nested Logic](/HackerRank/30DaysOfCode/nestedLogic.md)
-<br/>
+  <br/>
 
 ### [Problem Solving](/HackerRank/ProblemSolving)
+
 #### [Algorithms](/HackerRank/ProblemSolving/Algorithms)
 
 - [Solve Me First](/HackerRank/ProblemSolving/Algorithms/solveMeFirst.md)
@@ -107,6 +110,7 @@
 - [Sherlock and Squares](/HackerRank/ProblemSolving/Algorithms/sherlockSquares.md)
 - [Library Fine](/HackerRank/ProblemSolving/Algorithms/libraryFine.md)
 - [Cut the sticks](/HackerRank/ProblemSolving/Algorithms/cutTheSticks.md)
+- [Non-Divisible Subset](/HackerRank/ProblemSolving/Algorithms/non-DivisibleSubset.md)
 - [Repeated String](/HackerRank/ProblemSolving/Algorithms/repeatedString.md)
 - [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
 - [Equalize the Array](/HackerRank/ProblemSolving/Algorithms/equalizeArray.md)
@@ -118,10 +122,10 @@
 - [CamelCase](/HackerRank/ProblemSolving/Algorithms/camelCase.md)
 - [Mars Exploration](/HackerRank/ProblemSolving/Algorithms/marsExploration.md)
 
-
 <br/>
 
 ## Programmers
+
 ### [Level01](/Programmers/Level01)
 
 - [완주하지 못한 선수](/Programmers/Level01/unfinishedPlayer.md)
@@ -158,7 +162,7 @@
 - [x만큼 간격이 있는 n개의 숫자](/Programmers/Level01/spaceXwithN.md)
 - [직사각형 별찍기](/Programmers/Level01/rectangleStars.md)
 - [예산](/Programmers/Level01/budget.md)
-<br/>
+  <br/>
 
 ### [Level02](/Programmers/Level02)
 
