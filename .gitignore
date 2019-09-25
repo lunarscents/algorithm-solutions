@@ -8,4 +8,5 @@ contentful-import-error-log*
 .env*
 .contentful.json
 .idea/
+.vscode/
 npm-debug.log
