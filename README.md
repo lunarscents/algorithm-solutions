@@ -115,6 +115,7 @@
 - [Jumping on the Clouds](/HackerRank/ProblemSolving/Algorithms/jumpingClouds.md)
 - [Equalize the Array](/HackerRank/ProblemSolving/Algorithms/equalizeArray.md)
 - [Queen's Attack II](/HackerRank/ProblemSolving/Algorithms/queensAttackII.md)
+- [ACM ICPC Team](/HackerRank/ProblemSolving/Algorithms/acmICPCTeam.md)
 - [Taum and B'day](/HackerRank/ProblemSolving/Algorithms/taumAndBday.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
