@@ -118,6 +118,7 @@
 - [ACM ICPC Team](/HackerRank/ProblemSolving/Algorithms/acmICPCTeam.md)
 - [Taum and B'day](/HackerRank/ProblemSolving/Algorithms/taumAndBday.md)
 - [Encryption](/HackerRank/ProblemSolving/Algorithms/encryption.md)
+- [Bigger is Greater](/HackerRank/ProblemSolving/Algorithms/biggerIsGreater.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
