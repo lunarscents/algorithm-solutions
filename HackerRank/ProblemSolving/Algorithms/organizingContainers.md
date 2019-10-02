@@ -78,13 +78,13 @@ We perform the following **q = 2** queries:
 
 ![](https://s3.amazonaws.com/hr-challenge-images/0/1485813936-37f8a37dad-swapping-balls-sample-0-0.png)
 
-    Thus, we print Possible on a new line.<br/>
+Thus, we print Possible on a new line.<br/>
 
 2. The diagram below depicts the matrix for the second query:
 
 ![](https://s3.amazonaws.com/hr-challenge-images/0/1485814141-d283776840-swapping-balls-sample-0-2.png)
 
-    No matter how many times we swap balls of type **t<sub>0</sub>** and **t<sub>1</sub>** and between the two containers, we'll never end up with one container only containing type **t<sub>0</sub>** and the other container only containing type **t<sub>1</sub>**. Thus, we print `Impossible` on a new line.
+No matter how many times we swap balls of type **t<sub>0</sub>** and **t<sub>1</sub>** and between the two containers, we'll never end up with one container only containing type **t<sub>0</sub>** and the other container only containing type **t<sub>1</sub>**. Thus, we print `Impossible` on a new line.
 
 ## Sample Input 1
 
