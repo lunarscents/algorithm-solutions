@@ -117,6 +117,7 @@
 - [Queen's Attack II](/HackerRank/ProblemSolving/Algorithms/queensAttackII.md)
 - [ACM ICPC Team](/HackerRank/ProblemSolving/Algorithms/acmICPCTeam.md)
 - [Taum and B'day](/HackerRank/ProblemSolving/Algorithms/taumAndBday.md)
+- [Organizing Containers of Balls](/HackerRank/ProblemSolving/Algorithms/organizingContainers.md)
 - [Encryption](/HackerRank/ProblemSolving/Algorithms/encryption.md)
 - [Bigger is Greater](/HackerRank/ProblemSolving/Algorithms/biggerIsGreater.md)
 - [Modified Kaprekar Numbers](/HackerRank/ProblemSolving/Algorithms/modifiedKaprekarNumbers.md)
