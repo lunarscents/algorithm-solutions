@@ -122,6 +122,7 @@
 - [Bigger is Greater](/HackerRank/ProblemSolving/Algorithms/biggerIsGreater.md)
 - [Modified Kaprekar Numbers](/HackerRank/ProblemSolving/Algorithms/modifiedKaprekarNumbers.md)
 - [Beautiful Triplets](/HackerRank/ProblemSolving/Algorithms/beautifulTriplets.md)
+- [Minimum Distances](/HackerRank/ProblemSolving/Algorithms/minimumDistances.md)
 - [Chocolate Feast](/HackerRank/ProblemSolving/Algorithms/chocolateFeast.md)
 - [Big Sorting](/HackerRank/ProblemSolving/Algorithms/bigSorting.md)
 - [Super Reduced String](/HackerRank/ProblemSolving/Algorithms/superReducedString.md)
