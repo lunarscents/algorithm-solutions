@@ -4,6 +4,8 @@
 
 ## HackerRank
 
+HackerRank solution in JavaScript(ES6)
+
 ### [10Days of JavaScript](/HackerRank/10DaysOfJavascript)
 
 - [Day 0: Data Types](/HackerRank/10DaysOfJavascript/dataTypes.md)
@@ -133,6 +135,8 @@
 <br/>
 
 ## Programmers
+
+Programmers solution in JavaScript(ES6)
 
 ### [Level01](/Programmers/Level01)
 
