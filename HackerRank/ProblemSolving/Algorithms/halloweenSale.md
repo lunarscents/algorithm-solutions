@@ -6,7 +6,7 @@ Usually, all games are sold at the same price, **p** dollars. However, they are 
 
 For example, if **p = 20**, **d = 3** and **m = 6**, then the following are the costs of the first **11** games you buy, in order:
 
-<center>20, 17, 14, 11, 8, 6, 6, 6, 6, 6, 6</center>
+**<p align="center">20, 17, 14, 11, 8, 6, 6, 6, 6, 6, 6</p>**
 
 You have **s** dollars in your Mist wallet. How many games can you buy during the Halloween Sale?
 
