@@ -2,15 +2,17 @@
 
 Given the time in numerals we may convert it into words, as shown below:
 
-<center>5:00 -> five o'clock</center> 
-<center>5:01 -> one minute past five</center> 
-<center>5:10 -> tem minutes past five</center> 
-<center>5:15 -> quarter past five</center> 
-<center>5:30 -> half past five</center> 
-<center>5:40 -> twenty minutes to six</center> 
-<center>5:45 -> quarter to six</center> 
-<center>5:47 -> thirteen minutes to six</center> 
-<center>5:28 -> twenty eight minutes past</center>
+**<center align="center">5:00 -> five o'clock</center>**
+**<center align="center">5:01 -> one minute past five</center>**
+**<center align="center">5:10 -> ten minutes past five</center>**
+**<center align="center">5:15 -> quarter past five</center>**
+**<center align="center">5:30 -> half past five</center>**
+**<center align="center">5:40 -> twenty minutes to six</center>**
+**<center align="center">5:45 -> quarter to six</center>**
+**<center align="center">5:47 -> thirteen minutes to six</center>**
+**<center align="center">5:28 -> twenty eight minutes past</center>**
+
+<br/>
 
 At **minutes = 0**, use o' clock. For **1 <= minutes <= 30**, use `past`, and for **30 < minutes** use `to`. Note the space between the apostrophe and clock in `o' clock`. Write a program which prints the time in words for the input given in the format described.
 
