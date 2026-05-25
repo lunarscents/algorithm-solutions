@@ -1,10 +1,34 @@
 # Algorithm Solutions
 
-<br/>
+Algorithm Solutions is an open-source learning resource for JavaScript developers who want to practice algorithms, data structures, and coding interview problem solving.
+
+The repository collects solutions from HackerRank and Programmers, with a focus on clear JavaScript implementations. The next maintenance goal is to make each solution more useful as study material by adding explanations, complexity notes, and runnable test examples.
+
+## Goals
+
+- Keep problem solutions easy to read and beginner-friendly.
+- Add short explanations for approach, edge cases, and complexity.
+- Provide runnable examples so learners can verify solutions locally.
+- Organize problems by platform, track, and difficulty.
+
+## How to Use
+
+Open a problem file to read the statement summary, solution, and explanation. For problems with test examples, run the matching file with Node.js:
+
+```bash
+node tests/simpleArraySum.test.js
+```
+
+## Maintenance Roadmap
+
+- Add approach and complexity notes to frequently visited problems.
+- Add small Node.js test examples for representative solutions.
+- Normalize Markdown formatting across problem files.
+- Continue expanding JavaScript algorithm practice coverage.
 
 ## HackerRank
 
-HackerRank solution in JavaScript(ES6)
+HackerRank solutions in JavaScript (ES6).
 
 ### [10Days of JavaScript](/HackerRank/10DaysOfJavascript)
 
@@ -31,7 +55,6 @@ HackerRank solution in JavaScript(ES6)
 - [Day 7: Regular Expressions II](/HackerRank/10DaysOfJavascript/regx2.md)
 - [Day 7: Regular Expressions III](/HackerRank/10DaysOfJavascript/regx3.md)
 - [Day 8: Create a Button](/HackerRank/10DaysOfJavascript/createButton.md)
-  <br/>
 
 ### [30Days of JavaScript](/HackerRank/30DaysOfCode)
 
@@ -62,7 +85,6 @@ HackerRank solution in JavaScript(ES6)
 - [Day 24: More Linked Lists](/HackerRank/30DaysOfCode/moreLinkedLists.md)
 - [Day 25: Running Time and Complexity](/HackerRank/30DaysOfCode/runningTimeAndComplexity.md)
 - [Day 26: Nested Logic](/HackerRank/30DaysOfCode/nestedLogic.md)
-  <br/>
 
 ### [Problem Solving](/HackerRank/ProblemSolving)
 
@@ -87,7 +109,7 @@ HackerRank solution in JavaScript(ES6)
 - [Divisible Sum Pairs](/HackerRank/ProblemSolving/Algorithms/divisibleSumPairs.md)
 - [Migratory Birds](/HackerRank/ProblemSolving/Algorithms/migratoryBirds.md)
 - [Day of the Programmer](/HackerRank/ProblemSolving/Algorithms/dayOfProgrammer.md)
-- [Bon Appétit](/HackerRank/ProblemSolving/Algorithms/splitTheBill.md)
+- [Bon Appetit](/HackerRank/ProblemSolving/Algorithms/splitTheBill.md)
 - [Sock Merchant](/HackerRank/ProblemSolving/Algorithms/sockMerchant.md)
 - [Drawing Book](/HackerRank/ProblemSolving/Algorithms/drawingBook.md)
 - [Counting Valleys](/HackerRank/ProblemSolving/Algorithms/countingValleys.md)
@@ -138,11 +160,9 @@ HackerRank solution in JavaScript(ES6)
 - [CamelCase](/HackerRank/ProblemSolving/Algorithms/camelCase.md)
 - [Mars Exploration](/HackerRank/ProblemSolving/Algorithms/marsExploration.md)
 
-<br/>
-
 ## Programmers
 
-Programmers solution in JavaScript(ES6)
+Programmers solutions in JavaScript (ES6).
 
 ### [Level01](/Programmers/Level01)
 
@@ -180,7 +200,6 @@ Programmers solution in JavaScript(ES6)
 - [x만큼 간격이 있는 n개의 숫자](/Programmers/Level01/spaceXwithN.md)
 - [직사각형 별찍기](/Programmers/Level01/rectangleStars.md)
 - [예산](/Programmers/Level01/budget.md)
-  <br/>
 
 ### [Level02](/Programmers/Level02)
 
